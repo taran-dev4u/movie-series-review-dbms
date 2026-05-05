@@ -8,28 +8,34 @@ This project is a database-backed movie and series review application. The updat
 
 The project shows early full-stack fundamentals through SQL tables, PHP pages, local server setup, and review-management flows.
 
-## Problem
+## Project Objective
 
 A review platform needs structured tables for movies, reviews, ratings, and feedback. Without a proper schema, browsing, detail lookup, and review submission become hard to manage cleanly.
 
-## Scope
+## Completed Scope
 
 - Movie and series database schema
 - Review and feedback tables
 - PHP pages for listing, details, adding movies, and adding reviews
 - Local XAMPP and MySQL setup
 
-## Approach
+## Workflow
 
 - Designed separate tables for movies, reviews, and feedback
 - Connected PHP pages to the local database
-- Prepared SQL queries for table creation and application flow
+- Built SQL queries for table creation and application flow
 - Documented the web pages and database functions
 
-## Existing Work
+## Deliverables
 
 - DBMS project report for an online movie and series review database
 - Report includes table descriptions, local server notes, and PHP page names
+
+## Repository Contents
+
+- `README.md` - project overview, workflow, deliverables, and skills summary
+- `project-files/ug/19bce7346_dbms_project_report-2-1-.pdf` - project artifact
+- `project-files/README.md` - manifest of uploaded project materials
 
 ## Contribution
 
@@ -43,14 +49,6 @@ Built and documented the database-backed review workflow for movies, reviews, an
 - SQL
 - DBMS
 - Web development
-
-## Next Update
-
-- Add PHP source files and SQL schema
-- Add setup instructions
-- Add screenshots of the main pages
-
-The implementation files are stored separately and will be added after the source folders are reviewed and organized.
 
 ## Topics
 
